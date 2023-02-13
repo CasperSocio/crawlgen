@@ -3,3 +3,4 @@
 #### Features
 
 -	Initial project setup
+-	Add project README
