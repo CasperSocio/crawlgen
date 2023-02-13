@@ -1,0 +1,22 @@
+{
+	"name": "@crawlgen/crawler",
+	"version": "0.1.0-alpha.1",
+	"description": "CrawlGen crawler API",
+	"keywords": [
+		"crawlgen"
+	],
+	"homepage": "https://github.com/CasperSocio/crawlgen#readme",
+	"bugs": {
+		"url": "https://github.com/CasperSocio/crawlgen/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/CasperSocio/crawlgen.git"
+	},
+	"license": "MIT",
+	"main": "src/index.ts",
+	"scripts": {
+		"dev": "ts-node src/index.ts",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
